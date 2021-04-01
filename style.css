@@ -1,0 +1,9 @@
+html {
+    margin: 100px;
+    font: 21px "Courier", monospace;
+}
+
+.form-section {
+    display: block;
+    margin-top: 1em;
+}
