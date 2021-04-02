@@ -1,9 +1,21 @@
-html {
+body {
     margin: 100px;
-    font: 21px "Courier", monospace;
+    font: 1.5rem "Courier", monospace;
 }
 
 .form-section {
     display: block;
     margin-top: 1em;
+}
+
+
+textarea {
+    font: 1.25rem "Courier", monospace;
+    padding: 10px;
+}
+
+
+input {
+    font: 1.25rem "Courier", monospace;
+    padding: 10px;
 }
